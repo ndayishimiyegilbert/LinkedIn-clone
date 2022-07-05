@@ -8,7 +8,7 @@ function Feed() {
     <div className=' ml-[20px] relative  top-6'>
         {/* ________top1_______ */}
 
-        <div className=' h-[120px] w-[540px] bg-white rounded-[10px] border-[1px]  '>
+        <div className=' h-[120px] w-[540px] bg-white rounded-[10px] border-[1px] ' id="bla">
            <div className='ml-4 mt-4 flex'>
            <img src="/back.jpg" className="h-[50px] w-[50px] object-cover rounded-full  " />  
            <input type="text" placeholder=" start a post" className='h-[50px] border-[1px] border-gray-500  rounded-[50px] ml-3  w-[410px] bg-inherit pl-4 hover:bg-gray-100 ' />
