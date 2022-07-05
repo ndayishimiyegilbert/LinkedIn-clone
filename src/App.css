@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.parts:hover{
+  background: rgba(128, 128, 128, 0.411);
+  
+}
+.parts{
+  cursor: pointer;
+}
+.hover{
+  width: 300px;
+  height: 150px;
+  background: #000;
+  
+  position: absolute;
+  
+}
+.hoc:hover{
+  color: blue;
+}
